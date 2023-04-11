@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-rm&label=Profile%20views&color=0e75b6&style=flat" alt="anish-rm" /> </p>
 
-- 🔭 I’m currently working on **MEVN Projects**
+- 🔭 I’m currently working on **MERN and MEVN Projects**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **Data Structures and Algorithms**
+- 💬 Ask me about **Data Structures and Algorithms, OOPS, DBMS**
 
 - 📫 How to reach me **anishmahi946@gmail.com**
 
