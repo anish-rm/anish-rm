@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-rm&label=Profile%20views&color=0e75b6&style=flat" alt="anish-rm" /> </p>
 
-- 🔭 I’m currently working on **MERN and MEVN Projects**
+- 🔭 I’m currently working as **FullStack Developer**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 👨‍💻 I’m currently working on **Dotnet**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
