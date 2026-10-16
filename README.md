@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as **FullStack Developer**
 
-- 👨‍💻 I’m currently working on **Dotnet**
+- 👨‍💻 I’m currently working on **SpringBoot**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
